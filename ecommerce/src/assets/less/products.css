@@ -1,0 +1,6 @@
+.products {
+  display: flex;
+  row-gap: 10px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
